@@ -1,3 +1,7 @@
+// Author: Dylan Ding dvd5567@psu.com
+// Collaborator: William O'Rourke wjo5083@psu.edu
+// Collaborator: Alexis Vajda acc5358@psu.edu
+// Collaborator: Ashley Jones anj5278@psu.com
 #include "stdio.h"
 #include "readline/readline.h"
 #include "stdlib.h"
