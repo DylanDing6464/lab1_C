@@ -4,7 +4,7 @@ int main(void) {
         printf( "Enter temperature in celsius: " );
         scanf( "%lf", &cel );
         fahr = ( 9.0 / 5.0 ) * cel + 32;
-        printf( "\n%.0f° in Celsius is equivalent to %.1f° Fahrenheit.\n", cel, fahr );
+        printf( "%.0f° in Celsius is equivalent to %.1f° Fahrenheit.\n", cel, fahr );
 
 
  return 0;
